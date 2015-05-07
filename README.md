@@ -1,4 +1,4 @@
-mongodb-pubnub
+neo4j-pubnub
 ==============
 
 Neo4j Integration with PubNub Data Stream
